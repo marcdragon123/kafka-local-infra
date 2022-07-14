@@ -1,0 +1,6 @@
+.vscode
+
+### SSL Artifacts ###
+security-artifacts/*
+!security-artifacts/*.sh
+services/*/ssl/*.p12
